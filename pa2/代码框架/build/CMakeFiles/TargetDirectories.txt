@@ -1,0 +1,3 @@
+/home/anya/games101/pa2/代码框架/build/CMakeFiles/rebuild_cache.dir
+/home/anya/games101/pa2/代码框架/build/CMakeFiles/edit_cache.dir
+/home/anya/games101/pa2/代码框架/build/CMakeFiles/Rasterizer.dir
